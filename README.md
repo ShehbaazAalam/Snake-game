@@ -30,7 +30,7 @@ To play SnakeMania, follow these steps:
 
 1. Clone or Download the repository to your local machine.
 
-git clone https://github.com/MdArmaan143/Snake-game.git
+git clone https://github.com/ShehbaazAalam/Snake-game.git
 
 2. Open the index.html file in your web browser to start playing the game.
 
