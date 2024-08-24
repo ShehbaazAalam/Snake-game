@@ -2,7 +2,7 @@
 
 Welcome to SnakeMania, a classic snake game that will test your reflexes and timing! Guide your snake to eat food, grow longer, and try to achieve the highest score possible without colliding with yourself or the walls.
 ## Project link
-[https://game-snakemania.netlify.app/](https://game-snakemania.netlify.app/)
+https://shehbaazaalam.github.io/Snake-game/
 
 ## Table of Contents
 1. Game Overview
